@@ -126,4 +126,4 @@ The reading panels only open one at a time: opening a topic closes the tutorial 
 - Java examples target Java 21 and Spring Boot 3.
 - Python/FastAPI notes are planned as a later track; the UI already marks them as upcoming.
 
-Built as a personal reference, 2026.
+Built as a personal reference by Yronne J. Debalocos, 2026.
